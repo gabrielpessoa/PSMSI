@@ -8,8 +8,6 @@
 ```
 # apt-get install make
 ```
-> Instalação do Laravel obrigatória para a execução do projeto, veja mais em :
-* [Laravel-Installation](https://laravel.com/docs/6.x/installation) - Instalação completa na documentação do framework -
 ## Instalação
 - Para Clonar o repositório do projeto no seu computador digite : git clone ```https://github.com/gabrielpessoa/PSMSI.git ```
 ### Configuração
